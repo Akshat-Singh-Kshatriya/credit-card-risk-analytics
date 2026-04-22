@@ -37,11 +37,7 @@ By adjusting the threshold, the model successfully caught 80% of the fraudulent 
 git clone [https://github.com/Akshat-Singh-Kshatriya/credit-card-risk-analytics.git](https://github.com/Akshat-Singh-Kshatriya/credit-card-risk-analytics.git)
 cd credit-card-risk-analytics
 ```
-**2. Install the Dependencies:**
-```bash
-pip install -r requirements.txt
-```
-**3. Run the Model**
+**2. Run the Model**
 ```bash
 python credit_risk.py
 ```
