@@ -21,7 +21,7 @@ plt.rcParams.update({
 })
 
 # Phase 1: Data Loading & Preprocessing
-# download the csv file from the data folder
+# download the csv file from the dataset link
 df = pd.read_csv(data)
 
 # Scale Time and Amount
